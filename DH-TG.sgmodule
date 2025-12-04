@@ -1,6 +1,6 @@
-#!name=DH Optimize TG NetWork
-#!desc=优化tg转圈
-#!category=👸 ▸ DH_NetWork
+#!name= DH Optimize TG NetWork
+#!desc= 优化 tg 转圈
+#!category= 👸 ▸ DH_NetWork
 
 [General]
 use-local-host-item-for-proxy = true
